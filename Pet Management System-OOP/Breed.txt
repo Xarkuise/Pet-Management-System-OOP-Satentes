@@ -1,0 +1,40 @@
+Rottweiler
+Bulldog
+Pitbull
+Siberian Husky
+Great Dane
+Belgian Malinois
+German Sheperd
+Chow Chow
+Alaskan Malamute
+Persian
+Maine Coon
+Siamese
+Siberian Cat
+Sphynx
+Ragdoll
+Birman
+Burmese Cat
+Himalayan Cat
+Chameleon
+Lizard
+Pond Slider
+Iguana
+Frog
+Newt
+Cockatoo
+Cockatiel
+Parrot
+Pigeon
+Budgies
+Parrotlet
+Tarantula
+Goliath Birdeater
+Flowerhorn
+Betta Fish
+Gold Fish
+Koi Fish
+Zebra Fish
+Guppies
+Neon Tetra
+Tiger Barb

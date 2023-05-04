@@ -1,0 +1,6 @@
+Dog
+Cat
+Reptile
+Fish
+Bird
+Spider
